@@ -1,0 +1,3 @@
+﻿  mass.cpp
+C:\Users\spider\Desktop\LB_2\mass\mass\mass\mass.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mass.vcxproj -> C:\Users\spider\Desktop\LB_2\mass\mass\Debug\mass.exe
